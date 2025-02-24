@@ -1,5 +1,5 @@
- 🚀 Embedded Systems Project
-Welcome to the Embedded Systems Project repository! This repository contains code, documentation, and resources for embedded systems development, covering microcontrollers, real-time systems, IoT, and more.
+ <font size="22">🚀 Embedded Systems Project </font>
+<br>Welcome to the Embedded Systems Project repository! This repository contains code, documentation, and resources for embedded systems development, covering microcontrollers, real-time systems, IoT, and more.
 
 📌 Features
 ✅ Embedded C/C++ programming
@@ -170,6 +170,5 @@ Open a Pull Request.
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 💬 Contact & Support
-📧 Email: your.email@example.com
-🐦 Twitter: @your_handle
-🌐 Website: yourwebsite.com
+📧 Email: utkarshpatel0008@gmail.com
+🖇️Linkedin: https://www.linkedin.com/in/utkarshpatel001
