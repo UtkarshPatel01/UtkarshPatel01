@@ -1,85 +1,6 @@
- <font size="22">🚀 Embedded Systems Project </font>
-<br>Welcome to the Embedded Systems Project repository! This repository contains code, documentation, and resources for embedded systems development, covering microcontrollers, real-time systems, IoT, and more.
-
-📌 Features
-✅ Embedded C/C++ programming
-✅ Microcontroller interfacing (ESP32, STM32, AVR, PIC, etc.)
-✅ Sensor & actuator integration
-✅ Real-time operating systems (RTOS)
-✅ IoT communication (MQTT, Wi-Fi, Bluetooth, LoRa)
-✅ Power management techniques
-
-📂 Repository Structure
-bash
-Copy
-Edit
-📦 Embedded-Systems-Project  
-│── 📁 docs          # Documentation and guides  
-│── 📁 firmware      # Firmware source code  
-│── 📁 hardware      # Circuit schematics and PCB designs  
-│── 📁 examples      # Example projects & test programs  
-│── 📄 LICENSE       # License information  
-│── 📄 README.md     # Project overview  
-🛠️ Getting Started
-1️⃣ Prerequisites
-Before you begin, ensure you have the following installed:
-
-🔹 Compiler: GCC ARM, AVR-GCC, or platform-specific toolchain
-🔹 IDE: VS Code, PlatformIO, Keil, MPLAB, STM32CubeIDE, Arduino IDE
-🔹 Debugger: J-Link, ST-Link, or USB-to-Serial adapter
-🔹 Drivers: USB-to-UART (CH340, CP2102), JTAG/SWD tools
-2️⃣ Clone the Repository
-sh
-Copy
-Edit
-git clone https://github.com/UtkarshPatel01/UtkarshPatel01.git
-cd Embedded-Systems-Project
-3️⃣ Compile & Flash Firmware
-Example for ARM-based microcontrollers using GNU ARM Toolchain:
-
-sh
-Copy
-Edit
-cd firmware
-make all        # Compile the code  
-make flash      # Flash firmware to the microcontroller  
-🔬 Supported Hardware
-Microcontroller	Architecture	Communication	Power Consumption
-ESP32	32-bit Xtensa	Wi-Fi, BLE, SPI, I2C	🔋 Low
-STM32F4	ARM Cortex-M4	UART, SPI, CAN, I2C	🔋 Moderate
-ATmega328P	8-bit AVR	UART, SPI, I2C	🔋 Very Low
-RP2040	Dual-core ARM Cortex-M0+	USB, SPI, I2C	🔋 Low
-📚 Documentation
-For detailed setup guides, datasheets, and tutorials, visit the Docs Folder.
-
-🤝 Contributing
-We welcome contributions! Follow these steps to contribute:
-
-Fork the repository.
-Create a new branch: git checkout -b feature-xyz.
-Commit your changes: git commit -m "Added new feature".
-Push the changes: git push origin feature-xyz.
-Open a Pull Request.
-📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
-
-💬 Contact & Support
-📧 Email: your.email@example.com
-🐦 Twitter: @your_handle
-🌐 Website: yourwebsite.com
-Would you like me to tailor this further based on a specific project type, microcontroller, or use case? 🚀
-
-
-
-
-
-You said:
-yes STM32F103C8, Arduino UNO R3 and STM32Cube Programmer, Arduino IDE, 
-ChatGPT said:
-Great! Here’s a README.md file tailored specifically for STM32F103C8 (Blue Pill), Arduino UNO R3, and using STM32Cube Programmer & Arduino IDE.
 
 🚀 Embedded Systems Project (STM32 & Arduino)
-Welcome to the Embedded Systems Project repository! This project focuses on STM32F103C8 (Blue Pill) and Arduino UNO R3, with development using STM32Cube Programmer and Arduino IDE. The repository includes firmware, circuit schematics, and project examples for embedded applications.
+<br>Welcome to the Embedded Systems Project repository! This project focuses on STM32F103C8 (Blue Pill) and Arduino UNO R3, with development using STM32Cube Programmer and Arduino IDE. The repository includes firmware, circuit schematics, and project examples for embedded applications.
 
 📌 Features
 ✅ STM32F103C8 & Arduino UNO R3 support
@@ -169,6 +90,6 @@ Open a Pull Request.
 📜 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-💬 Contact & Support
-📧 Email: utkarshpatel0008@gmail.com
-🖇️Linkedin: https://www.linkedin.com/in/utkarshpatel001
+<br>💬 Contact & Support
+<br>📧 Email: utkarshpatel0008@gmail.com
+<br>🖇️Linkedin: https://www.linkedin.com/in/utkarshpatel001
