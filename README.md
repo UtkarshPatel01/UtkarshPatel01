@@ -1,10 +1,10 @@
 
-🚀 Embedded Systems Project (STM32 & Arduino)
+# 🚀 Embedded Systems Project (STM32 & Arduino)
 <br>Welcome to the Embedded Systems Project repository! This project focuses on STM32F103C8 (Blue Pill) and Arduino UNO R3, with development using STM32Cube Programmer and Arduino IDE. The repository includes firmware, circuit schematics, and project examples for embedded applications.
 
 📌 Features
-✅ STM32F103C8 & Arduino UNO R3 support
-✅ Bare-metal and Arduino-based programming
+<br>✅ STM32F103C8 & Arduino UNO R3 support
+<br>✅ Bare-metal and Arduino-based programming
 ✅ Peripheral interfacing: GPIO, UART, SPI, I2C, PWM, ADC
 ✅ STM32Cube Programmer for flashing STM32
 ✅ Arduino IDE for easy development
