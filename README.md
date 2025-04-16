@@ -4,18 +4,14 @@
 
 📌 Features
 <br>✅ STM32F103C8 & Arduino UNO R3 support
-<br>✅ Bare-metal and Arduino-based programming
-✅ Peripheral interfacing: GPIO, UART, SPI, I2C, PWM, ADC
-✅ STM32Cube Programmer for flashing STM32
-✅ Arduino IDE for easy development
-✅ Sensor & actuator integration (DHT11, OLED, Motors, etc.)
-✅ Interrupts & power management
-✅ Communication: Serial, I2C, SPI, Bluetooth
+<br>✅ Arduino-based programming
+<br>✅ Peripheral interfacing: GPIO, UART, SPI, I2C, PWM, ADC
+<br>✅ STM32Cube Programmer for flashing STM32
+<br>✅ Arduino IDE for easy development
+<br>✅ Sensor & actuator integration (DHT11, LCD, Motors, etc.)
+<br>✅ Interrupts & power management
+<br>✅ Communication: Serial, I2C, SPI, Bluetooth
 
-📂 Repository Structure
-bash
-Copy
-Edit
 📦 Embedded-Systems-Project  
 │── 📁 docs          # Documentation and guides  
 │── 📁 firmware      # STM32 & Arduino firmware source code  
@@ -23,7 +19,7 @@ Edit
 │── 📁 examples      # Example projects & test programs  
 │── 📄 LICENSE       # License information  
 │── 📄 README.md     # Project overview  
-🛠️ Getting Started
+## 🛠️ Getting Started
 1️⃣ Prerequisites
 Before you begin, ensure you have the following installed:
 
