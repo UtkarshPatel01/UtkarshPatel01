@@ -24,14 +24,14 @@
 Before you begin, ensure you have the following installed:
 
 <br>🔹 For STM32F103C8 (Blue Pill):-
-<br> STM32Cube Programmer 
-<br> STM32duino (for Arduino IDE) 
-<br> USB-to-Serial Adapter (CP2102, CH340G) or ST-Link v2
-<br> STM32CubeIDE (Optional for advanced development)
+<br>│──  STM32Cube Programmer 
+<br>│──  STM32duino (for Arduino IDE) 
+<br>│──  USB-to-Serial Adapter (CP2102, CH340G) or ST-Link v2
+<br>│──  STM32CubeIDE (Optional for advanced development)
 
 <br>🔹 For Arduino UNO R3
-<br>Arduino IDE 
-<br>Drivers for USB (CH340/ATmega16U2)
+<br>│── Arduino IDE 
+<br>│── Drivers for USB (CH340/ATmega16U2)
 
 2️⃣ Clone the Repository
 sh
