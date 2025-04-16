@@ -2,7 +2,7 @@
 # 🚀 Embedded Systems Project (STM32 & Arduino)
 <br>Welcome to the Embedded Systems Project repository! This project focuses on STM32F103C8 (Blue Pill) and Arduino UNO R3, with development using STM32Cube Programmer and Arduino IDE. The repository includes firmware, circuit schematics, and project examples for embedded applications.
 
-📌 Features
+## 📌 Features
 <br>✅ STM32F103C8 & Arduino UNO R3 support
 <br>✅ Arduino-based programming
 <br>✅ Peripheral interfacing: GPIO, UART, SPI, I2C, PWM, ADC
@@ -20,24 +20,27 @@
 │── 📄 LICENSE       # License information  
 │── 📄 README.md     # Project overview  
 ## 🛠️ Getting Started
-1️⃣ Prerequisites
+### 1️⃣ Prerequisites
 Before you begin, ensure you have the following installed:
 
-🔹 For STM32F103C8 (Blue Pill)
-STM32Cube Programmer (Download Here)
-STM32duino (for Arduino IDE) (Installation Guide)
-USB-to-Serial Adapter (CP2102, CH340G) or ST-Link v2
-STM32CubeIDE (Optional for advanced development)
-🔹 For Arduino UNO R3
-Arduino IDE (Download Here)
-Drivers for USB (CH340/ATmega16U2)
+<br>🔹 For STM32F103C8 (Blue Pill):-
+<br> STM32Cube Programmer 
+<br> STM32duino (for Arduino IDE) 
+<br> USB-to-Serial Adapter (CP2102, CH340G) or ST-Link v2
+<br> STM32CubeIDE (Optional for advanced development)
+
+<br>🔹 For Arduino UNO R3
+<br>Arduino IDE 
+<br>Drivers for USB (CH340/ATmega16U2)
+
 2️⃣ Clone the Repository
 sh
 Copy
 Edit
 git clone https://github.com/your-username/Embedded-Systems-Project.git
 cd Embedded-Systems-Project
-🔋 Flashing Firmware
+
+## 🔋 Flashing Firmware
 🔹 Uploading Code to STM32F103C8 (Blue Pill)
 Method 1: Using STM32Cube Programmer & USB-to-Serial (CP2102)
 
